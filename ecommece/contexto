@@ -1,0 +1,8 @@
+Segmentação por Localização 
+○ FacetGrid de Purchase_Amount vs Age, separado por Location (use 
+col_wrap=3). 
+10. Tendências Temporais 
+○ Converta Time_of_Purchase para datetime e plote a média mensal de 
+Purchase_Amount com um lineplot. 
+11. Clusterização com Pairplot 
+○ Crie um pairplot das variáveis numéricas, colorido por Shipping_Preference.

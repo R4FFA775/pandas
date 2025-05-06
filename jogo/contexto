@@ -1,0 +1,64 @@
+
+Com base nos dados contidos no arquivo vgsales.csv que contém dados de vendas de vídeo games, crie um Dashboard para exibir os dados usando a biblioteca streamlit e bibliotecas de análise de dados (pandas, matplotlib, seaborn, plotly express, etc…)
+
+O seu dashboard deve conter:
+
+Métricas Gerais:
+
+Total de jogos únicos
+
+Ano do jogo mais antigo e mais recente  
+
+Média global de vendas por jogo
+
+Editora com maior número de jogos publicados  
+
+
+Top Jogos por Vendas:
+
+Gráfico interativo de barras horizontal.  
+
+Permitir seleção do número de jogos a serem exibidos (5, 10, 20)
+
+Opção de escolher entre "Global_Sales" ou vendas regionais (NA/EU/JP)
+
+Exibir nome do jogo, plataforma e ano ao passar o mouse
+
+Filtrar por plataforma, gênero e/ou editora
+
+
+Distribuição de Vendas por Região:
+
+Gráfico de pizza ou treemap. 
+
+Calcular percentual de vendas totais por região (NA, EU, JP, Other)
+
+Opção de filtrar por década (1980-1990, 1991-2000, etc.)
+
+
+Popularidade de Gêneros:
+
+Gráfico de barras empilhadas.  
+
+Exibir vendas totais por gênero
+
+Permitir comparação entre regiões (NA vs. EU vs. JP)
+
+Adicionar slider para selecionar intervalo de anos  
+
+
+Tendências Temporais
+
+Gráfico de linha de global sales por ano
+
+
+Busca de Jogos:
+
+Sistema de busca interativo.  
+
+Campo de texto para digitar nome do jogo
+
+Exibir tabela com detalhes completos do jogo
+
+Gráfico de barras ou de pizza com análise das vendas por região
+
