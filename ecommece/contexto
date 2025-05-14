@@ -6,3 +6,7 @@ col_wrap=3).
 Purchase_Amount com um lineplot. 
 11. Clusterização com Pairplot 
 ○ Crie um pairplot das variáveis numéricas, colorido por Shipping_Preference.
+
+
+cd /workspaces/pandas/ecommece/
+streamlit run terminal.py
